@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calories</string>
+    <string name="calories">calories</string>
+    <string name="bmi_calculator">Body mass index is </string>
+</resources>
